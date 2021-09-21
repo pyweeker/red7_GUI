@@ -2,3 +2,5 @@
 red7 card game clone with GUI with arcade library
 
 v34 gives a little sort of player 0 palette, but not perfect, like a kind of swaping
+
+v36 dirty fix for sorting player 0 palette, was strange for droping last card from hand to palette.
